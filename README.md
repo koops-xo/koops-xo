@@ -1,9 +1,8 @@
 
 ## Hi there 👋
-### I am Koops and I am a hobbyist Django developer
-- 🔭 I’m currently working on a marketplace app
-- 🌱 I’m currently learning how to automate tasks with python
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: koopslegoale@gmail.com
-- ⚡ Fun fact: In my spare time I ready substacks or books
+### I am Koops and I am a business management student 
+- 🔭 I am passionate about data analysis in procurement 
+- 🌱 I’m currently tailoring my python skills to data analysis
+- 📫 How to reach me: koopsbusiness@icloud.com
+- ⚡ Fun fact: I am into building and programming electronics 
 
